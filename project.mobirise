@@ -57,7 +57,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ART AND FRIENDS",
-          "text": "<p>&nbsp; &nbsp; WHITE FIRE ART&nbsp;- We are a group of friends who love art.<br>We want to share whatever comes across our mind that we think it may be useful for others, \bdrawing for beginners, fine arts, manga, digital art...we appreciate all the beautiful things in life.</p>",
+          "text": "<p>&nbsp; &nbsp; WHITE FIRE ART - We are a group of friends who love art.</p>We want to share whatever comes across our mind that we think it may be useful for others, drawing for beginners, fine arts, manga art, digital art...<br>We learn to find the beauty in everything. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.youtube.com/channel/UCLxB30c742hW6pa_-rc4Pew\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">\bYoutube</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Blog</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Resources</a>",
           "alias": "purity/components",
           "_tags": [
