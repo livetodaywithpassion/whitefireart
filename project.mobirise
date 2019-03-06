@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 61,
+    "uniqCompNum": 79,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -57,7 +57,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ART AND FRIENDS",
-          "text": "<p>&nbsp; &nbsp; WHITE FIRE ART&nbsp;- We are a group of friends who love art.<br>We want to share whatever comes across our mind that we think it may be useful for others, \bdrawing for beginners, fine arts, manga, digital art, religious art, music, tree houses, traveling, camping, and all the good things in life.</p>",
+          "text": "<p>&nbsp; &nbsp; WHITE FIRE ART&nbsp;- We are a group of friends who love art.<br>We want to share whatever comes across our mind that we think it may be useful for others, \bdrawing for beginners, fine arts, manga, digital art...</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.youtube.com/channel/UCLxB30c742hW6pa_-rc4Pew\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">\bYoutube</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Blog</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Resources</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1244,9 +1244,9 @@
     },
     "page6.html": {
       "settings": {
-        "title": "Thou Art That",
+        "title": "Free Resources ",
         "order": 3,
-        "meta_descr": ""
+        "meta_descr": "Free Resources "
       },
       "components": [
         {
@@ -1304,6 +1304,192 @@
             }
           },
           "_anchor": "menu-11"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Drop-Dead Easy Website Maker",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download For Win</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1r"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Drop-Dead Easy Website Maker",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1s"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download For Win</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1u"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Drop-Dead Easy Website Maker",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download For Win</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Drop-Dead Easy Website Maker",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1z"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download For Win</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-20"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Drop-Dead Easy Website Maker",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-22"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download For Win</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-23"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Drop-Dead Easy Website Maker",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-25"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download For Win</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-26"
         }
       ]
     }
