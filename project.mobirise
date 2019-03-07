@@ -160,7 +160,7 @@
           "form": {
             "action": "nnnn1912@gmail.com",
             "alerts": {
-              "success": "Thank you!  \nYou can download your book here:"
+              "success": "Thank you!  \nYou can download your book here: https://www.youtube.com/watch?v=_8u35MgxI8A&t=230s"
             },
             "fields": {
               "email": {
