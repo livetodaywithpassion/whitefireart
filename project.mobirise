@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -58,7 +58,7 @@
           },
           "title": "ART AND FRIENDS",
           "text": "<p>WHITE FIRE ART - We are a group of friends who love art.<br><br>We want to share whatever comes across our mind that we think it may be useful for others, drawing for beginners, fine arts, manga art, digital art...<br>We learn to see the beauty in everything.&nbsp;<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.youtube.com/channel/UCLxB30c742hW6pa_-rc4Pew\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">\bYoutube</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Blog</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Resources</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.youtube.com/channel/UCLxB30c742hW6pa_-rc4Pew\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">\bYoutube</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Resources</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -140,6 +140,41 @@
               "font-size": "16px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Subscribe to our Newsletter",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
+          "form": {
+            "action": "nnnn1912@gmail.com",
+            "alerts": {
+              "success": "Thank you!  \nYou can download your book here:"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-27"
         },
         {
           "_params": {
