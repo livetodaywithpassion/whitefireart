@@ -160,7 +160,7 @@
           "form": {
             "action": "nnnn1912@gmail.com",
             "alerts": {
-              "success": "Thank you!  \nThe website under construction, please come back  later"
+              "success": "Thank you!  \nWe will get back to you soon"
             },
             "fields": {
               "email": {
