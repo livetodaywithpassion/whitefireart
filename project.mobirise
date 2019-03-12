@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "nicholas-nonduality",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1753,7 +1753,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
