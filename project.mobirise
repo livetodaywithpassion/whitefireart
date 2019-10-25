@@ -44,8 +44,8 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1408.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/arunachala-gallery-1-2000x1326.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
             "bgVideoRadio": false,
@@ -67,21 +67,21 @@
           "_anchor": "header1-0",
           "_styles": {
             "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
               "font-size": "20px",
-              "color": "#2b2b2b"
+              "color": "#f2f2f2"
             },
             ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
               "font-size": "20px"
             },
             "H1": {
               "font-size": "48px",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "color": "#2b2b2b"
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#f2f2f2"
             }
           }
         },
